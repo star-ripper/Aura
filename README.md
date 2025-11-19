@@ -1,2 +1,2 @@
 # Aura Project
-The first step to our Aura hourney
+The first step to our Aura journey
