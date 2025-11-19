@@ -19,7 +19,7 @@ class Student {
         return this.age;
     }
 }
-public class Main {
+public class Day1-Main {
     public static void main(String[] args) {
         Student s1 = new Student("Muneeb", 19);
         Student s2 = new Student();
